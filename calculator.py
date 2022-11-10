@@ -17,12 +17,6 @@ equation_text = ""
 #         return True
 #     else:
 #         return False
-def check_zero(equation):
-    l = len(equation)
-
-    if l == 1:
-        
-    if equation[l-2]
 
 def check_int(num):
     l = len(num)
