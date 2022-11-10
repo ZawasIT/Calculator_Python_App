@@ -3,12 +3,6 @@ from tkinter import ttk
 from tkinter import *
 import math 
 
-# things to change!
-# check dots    +
-# check signs   +
-# flaot to int  +
-# equal syntax error    -
-
 # global variables
 equation_text = ""
 
